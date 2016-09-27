@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RockDrop</string>
+    <string name="timer_start">START</string>
+</resources>
